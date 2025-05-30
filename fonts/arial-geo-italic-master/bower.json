@@ -1,0 +1,27 @@
+{
+  "name": "arial-geo-italic",
+  "description": "Arial GEO Italic Web-Font Package",
+  "version": "1.0.0",
+  "keywords": ["ttf", "woff", "woff2", "svg", "font", "web-font", "arial-geo-italic"],
+  "main": [
+    "css/arial-geo-italic.css"
+  ],
+  "homepage": "https://github.com/web-fonts/arial-geo-italic",
+  "authors": [
+    "Lado Lomidze <lado.lomidze@gmail.com>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/web-fonts/arial-geo-italic.git"
+  },
+  "license": ["MIT", "CC-BY-NC-ND-4.0"],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "*.md",
+    "font.json"
+  ]
+}
