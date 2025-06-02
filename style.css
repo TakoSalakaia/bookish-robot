@@ -315,6 +315,17 @@ textarea {
 }
 
 @media (max-width: 768px) {
+ .text-section {
+    padding: 0 20px;
+  }
+
+  .text-section p {
+    text-align: justify;
+    line-height: 28px;
+    font-size: 16px;
+  }
+
+{
   .footer-container {
     flex-direction: column;
     align-items: center;
